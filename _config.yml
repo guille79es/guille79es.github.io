@@ -1,0 +1,19 @@
+remote_theme: pmarsceill/just-the-docs
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/images/logo1.png"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: false
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2019 MIT license"
